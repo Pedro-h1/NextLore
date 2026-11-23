@@ -57,12 +57,12 @@
 </div>
 <div align="center">
 
-    |   Categoria   |  Categoria  |    Categoria     |
-    | :-----------: | :---------: | :--------------: |
-    |    ⚔️ Ação    | 🗺️ Aventura |      🧙 RPG      |
-    | ♟️ Estratégia |   🎯 FPS    | 🪂 Battle Royale |
-    |    🛡️ MOBA    | 🚗 Corrida  |    🧩 Puzzle     |
-    | 🎮 Simulação  |             |                  |
+|   Categoria   |  Categoria  |    Categoria     |
+| :-----------: | :---------: | :--------------: |
+|    ⚔️ Ação    | 🗺️ Aventura |      🧙 RPG      |
+| ♟️ Estratégia |   🎯 FPS    | 🪂 Battle Royale |
+|    🛡️ MOBA    | 🚗 Corrida  |    🧩 Puzzle     |
+| 🎮 Simulação  |             |                  |
 
 </div>
 <div align="center">
@@ -93,9 +93,7 @@
     <p>Registros, atividades, entregas e materiais produzidos pela equipe durante o desenvolvimento do NextLore.</p>
 </div>
 <div align="center">
-
-    _Os materiais, documentos, imagens e demais registros serão adicionados conforme o andamento da atividade._
-
+    <p>_Os materiais, documentos, imagens e demais registros serão adicionados conforme o andamento da atividade._</p>
 </div>
 
 ---
