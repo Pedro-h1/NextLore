@@ -4,7 +4,7 @@
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=A25CED&center=true&vCenter=true&width=750&lines=🎮+Sobre+o+Projeto" /></div>
 
-<div align="center"><p>📌 Desenvolvimento de uma <strong>plataforma gamer</strong> que reúne diferentes recursos do universo dos jogos em um único ambiente. O <strong>NextLore</strong> tem como objetivo facilitar a descoberta de novos títulos, disponibilizar informações detalhadas, apresentar conteúdos de Wiki e oferecer ferramentas para auxiliar os jogadores em suas escolhas e experiências.</p></div>
+<div align="center"><p>Desenvolvimento de uma <strong>plataforma gamer</strong> que reúne diferentes recursos do universo dos jogos em um único ambiente. O <strong>NextLore</strong> tem como objetivo facilitar a descoberta de novos títulos, disponibilizar informações detalhadas, apresentar conteúdos de Wiki e oferecer ferramentas para auxiliar os jogadores em suas escolhas e experiências.</p></div>
 
 ---
 
@@ -84,10 +84,6 @@
     Capturas de tela e demonstrações da interface do NextLore serão adicionadas conforme o desenvolvimento das páginas.
   </p>
 </div>
-
----
-
-<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:5649ED,100:A25CED&animation=fadeIn" width="100%" />
